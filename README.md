@@ -9,3 +9,6 @@ KeePass 2.x sources.
 As the project's author, Dominik Reichl, [chose not to maintain a public repository]
 (https://sourceforge.net/p/keepass/discussion/329220/thread/02383c83/?page=0)
 with the source, this is the closest you'll get to having one.
+
+*NOTE: THIS THE ONLY FILE THAT DOES NOT PERTAIN TO THE ORIGINAL PROJECT SOURCE CODE!*
+It was created to provide clearer information for GitHub users.
